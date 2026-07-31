@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="blocks/studentactivity/db" VERSION="20260731" COMMENT="XMLDB file for block_studentactivity"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd">
+  <TABLES>
+  </TABLES>
+</XMLDB>
