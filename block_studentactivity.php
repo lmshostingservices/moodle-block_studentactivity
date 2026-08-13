@@ -30,7 +30,6 @@
  * Moodle activity tables so the report is complete regardless of log retention.
  */
 class block_studentactivity extends block_base {
-
     /**
      * Initialise the block.
      */

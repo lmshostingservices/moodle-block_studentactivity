@@ -35,7 +35,6 @@ use core_privacy\local\metadata\collection;
 class provider implements
     \core_privacy\local\metadata\provider,
     \core_privacy\local\request\plugin\provider {
-
     /**
      * Return metadata: this block stores no personal data.
      *
